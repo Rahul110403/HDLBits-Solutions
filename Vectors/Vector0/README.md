@@ -3,7 +3,7 @@
 ## Problem Summary
 
 Implement a Verilog module that connects a 3-bit input vector to a 3-bit output vector and assigns each individual bit of the input vector
-to separate output signals.
+to separate output signals. 
 
 ## Concepts
 
